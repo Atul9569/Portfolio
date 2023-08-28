@@ -1,2 +1,2 @@
-# My-WordPress-Theme
-This folder contains the WordPress  theme
+# Manmohan Mishra
+This folder contains the Manmohan Mishra Website
